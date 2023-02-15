@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tanuj
+Build-Jdk: 17.0.5
+Implementation-Title: sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.buildpacks.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sample
+Created-By: Maven Integration for Eclipse
+
